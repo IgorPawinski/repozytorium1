@@ -1,0 +1,15 @@
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\bin\Debug\net6.0\Powerbank.exe
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\bin\Debug\net6.0\Powerbank.deps.json
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\bin\Debug\net6.0\Powerbank.runtimeconfig.json
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\bin\Debug\net6.0\Powerbank.dll
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\bin\Debug\net6.0\Powerbank.pdb
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\obj\Debug\net6.0\Powerbank.csproj.AssemblyReference.cache
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\obj\Debug\net6.0\Powerbank.GeneratedMSBuildEditorConfig.editorconfig
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\obj\Debug\net6.0\Powerbank.AssemblyInfoInputs.cache
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\obj\Debug\net6.0\Powerbank.AssemblyInfo.cs
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\obj\Debug\net6.0\Powerbank.csproj.CoreCompileInputs.cache
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\obj\Debug\net6.0\Powerbank.dll
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\obj\Debug\net6.0\refint\Powerbank.dll
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\obj\Debug\net6.0\Powerbank.pdb
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\obj\Debug\net6.0\Powerbank.genruntimeconfig.cache
+S:\Pawiński Igor\gr2\C#\2023\27.03.2023\Powerbank\Powerbank\obj\Debug\net6.0\ref\Powerbank.dll
